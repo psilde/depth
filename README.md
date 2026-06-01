@@ -71,17 +71,21 @@ Select your agent once. Depth locks it the instant agent select opens, with a ra
 <div align="center">
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img src=".github/assets/agent-select.png" alt="Agent Select" width="100%" /><br/>
 <sub>Agent Select</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img src=".github/assets/match-history.png" alt="Match History" width="100%" /><br/>
 <sub>Match History</sub>
 </td>
-<td align="center" width="33%">
-<img src=".github/assets/lobby.png" alt="Lobby + InstaLocker" width="100%" /><br/>
-<sub>Lobby + InstaLocker</sub>
+<td align="center" width="25%">
+<img src=".github/assets/lobby.png" alt="Lobby" width="100%" /><br/>
+<sub>Lobby</sub>
+</td>
+<td align="center" width="25%">
+<img src=".github/assets/search.png" alt="Player Search" width="100%" /><br/>
+<sub>Player Search</sub>
 </td>
 </tr>
 </table>
