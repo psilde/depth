@@ -8,7 +8,7 @@
 
 [![Version](https://img.shields.io/badge/version-v0.7.0-7C5CFC?style=flat-square&labelColor=0d1117)](https://github.com/psilde/depth-public/releases)
 [![Platform](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows&logoColor=white&labelColor=0d1117)](https://github.com/psilde/depth-public/releases/latest)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.gg/JzEtNzD4f)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.gg/hUZqMXvUXU)
 [![Free](https://img.shields.io/badge/Free-Forever-238636?style=flat-square&labelColor=0d1117)](https://github.com/psilde/depth-public/releases/latest)
 
 <br/>
