@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" font-family="Space Grotesk, sans-serif">
+  <g transform="translate(150,60) scale(1.6)">
+    <polygon points="40,16 60,16 58,42 42,42" fill="#c9b8f2"></polygon>
+    <polygon points="40,16 42,42 26,42" fill="#6a47c2"></polygon>
+    <polygon points="60,16 74,42 58,42" fill="#432c86"></polygon>
+    <polygon points="26,42 42,42 50,88" fill="#3a2a6e"></polygon>
+    <polygon points="42,42 58,42 50,88" fill="#8a6fd8"></polygon>
+    <polygon points="58,42 74,42 50,88" fill="#241046"></polygon>
+  </g>
+  <text x="320" y="140" dominant-baseline="central" font-size="92" font-weight="600" letter-spacing="31" fill="#3a2a6e" style="text-transform:uppercase;">DEPTH</text>
+</svg>
