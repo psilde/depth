@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src=".github/assets/banner.svg" alt="Depth — Know your lobby. Before you play." width="680" />
+<img src=".github/assets/depth-lockup-h-light.svg" alt="Depth — Know your lobby. Before you play." width="680" />
 
 <br/><br/>
 
