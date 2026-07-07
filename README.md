@@ -3,7 +3,7 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/depth-lockup-h-dark.svg">
+  <source media="(prefers-color-scheme: dark)" src=".github/assets/depth-lockup-h-dark.svg">
   <img src=".github/assets/depth-lockup-h-light.svg" alt="Learn your lobby." width="420">
 </picture>
 
