@@ -4,7 +4,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".github/assets/depth-lockup-h-dark.svg">
-  <img src=".github/assets/depth-lockup-h-light.svg" alt="Depth — know your lobby, before you play" width="420">
+  <img src=".github/assets/depth-lockup-h-light.svg" alt="Learn your lobby." width="420">
 </picture>
 
 <br/><br/>
