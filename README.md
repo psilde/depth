@@ -21,7 +21,7 @@ every player in your lobby, surfaced automatically from the moment agent select 
 
 <br/>
 
-<img src="screenshots/05-lobby.png" alt="Depth — lobby overview" width="88%">
+<img src=".github/assets/05-lobby.png" alt="Depth — lobby overview" width="88%">
 
 </div>
 
@@ -53,7 +53,7 @@ Each player shows their current streak inline. Spot the enemy on W5 or the teamm
 <tr>
 <td width="33%" valign="top">
 
-### 🛡 Dodge Detector
+### 🛡 Dodge Matrix
 A scored should-you-dodge recommendation built from your team's flags, rank spread, and recent history. **SAFE → DODGE** in one glance.
 
 </td>
@@ -80,29 +80,29 @@ Select your agent once. Depth locks it the instant agent select opens, with a ra
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="screenshots/05-lobby.png" alt="Lobby" width="100%"><br/>
+<img src=".github/assets/05-lobby.png" alt="Lobby" width="100%"><br/>
 <sub><b>Lobby</b></sub>
 </td>
 <td align="center" width="33%">
-<img src="screenshots/11-pregame.png" alt="Agent Select" width="100%"><br/>
+<img src=".github/assets/11-pregame.png" alt="Agent Select" width="100%"><br/>
 <sub><b>Agent Select</b></sub>
 </td>
 <td align="center" width="33%">
-<img src="screenshots/15-coregame.png" alt="Live Game" width="100%"><br/>
+<img src=".github/assets/15-coregame.png" alt="Live Game" width="100%"><br/>
 <sub><b>Live Game</b></sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
-<img src="screenshots/14-pregame-match-history.png" alt="Match History" width="100%"><br/>
+<img src=".github/assets/14-pregame-match-history.png" alt="Match History" width="100%"><br/>
 <sub><b>Match History</b></sub>
 </td>
 <td align="center" width="33%">
-<img src="screenshots/09-lobby-search.png" alt="Player Search" width="100%"><br/>
+<img src=".github/assets/09-lobby-search.png" alt="Player Search" width="100%"><br/>
 <sub><b>Player Search</b></sub>
 </td>
 <td align="center" width="33%">
-<img src="screenshots/17-settings.png" alt="Settings" width="100%"><br/>
+<img src=".github/assets/17-settings.png" alt="Settings" width="100%"><br/>
 <sub><b>Settings</b></sub>
 </td>
 </tr>
