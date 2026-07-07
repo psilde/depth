@@ -2,7 +2,10 @@
 
 <br/>
 
-<img src=".github/assets/depth-lockup-h-light.svg" alt="Depth — Know your lobby. Before you play." width="680" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/depth-lockup-h-dark.svg">
+  <img src=".github/assets/depth-lockup-h-light.svg" alt="Depth — know your lobby, before you play" width="420">
+</picture>
 
 <br/><br/>
 
@@ -13,11 +16,16 @@
 
 <br/>
 
-<img src=".github/assets/hero.png" alt="Depth — Live competitive view" width="88%" />
+A desktop companion for competitive Valorant. Rank, Depth Score and match history for
+every player in your lobby, surfaced automatically from the moment agent select opens.
+
+<br/>
+
+<img src="screenshots/05-lobby.png" alt="Depth — lobby overview" width="88%">
 
 </div>
 
----
+<br/>
 
 ## Features
 
@@ -32,7 +40,7 @@ Current rank, peak rank, and exact RR for all 10 players. Immortal+ players show
 <td width="33%" valign="top">
 
 ### 🎯 Depth Score
-A composite performance metric derived from recent match data. See who's actually playing well right now — not just their rank.
+A composite performance metric derived from recent match data. See who's actually playing well right now, not just their rank.
 
 </td>
 <td width="33%" valign="top">
@@ -45,14 +53,14 @@ Each player shows their current streak inline. Spot the enemy on W5 or the teamm
 <tr>
 <td width="33%" valign="top">
 
-### 🛡 Dodge Matrix
+### 🛡 Dodge Detector
 A scored should-you-dodge recommendation built from your team's flags, rank spread, and recent history. **SAFE → DODGE** in one glance.
 
 </td>
 <td width="33%" valign="top">
 
 ### 🚩 Player Flags & Tags
-Community flags for cheaters, win traders, and boosted accounts — plus personal tags and private notes you can attach to any player.
+Community flags for cheaters, win traders, and boosted accounts, plus personal tags and private notes you can attach to any player.
 
 </td>
 <td width="33%" valign="top">
@@ -64,34 +72,44 @@ Select your agent once. Depth locks it the instant agent select opens, with a ra
 </tr>
 </table>
 
----
+<br/>
 
 ## Screenshots
 
 <div align="center">
 <table>
 <tr>
-<td align="center" width="25%">
-<img src=".github/assets/agent-select.png" alt="Agent Select" width="100%" /><br/>
-<sub>Agent Select</sub>
+<td align="center" width="33%">
+<img src="screenshots/05-lobby.png" alt="Lobby" width="100%"><br/>
+<sub><b>Lobby</b></sub>
 </td>
-<td align="center" width="25%">
-<img src=".github/assets/match-history.png" alt="Match History" width="100%" /><br/>
-<sub>Match History</sub>
+<td align="center" width="33%">
+<img src="screenshots/11-pregame.png" alt="Agent Select" width="100%"><br/>
+<sub><b>Agent Select</b></sub>
 </td>
-<td align="center" width="25%">
-<img src=".github/assets/lobby.png" alt="Lobby" width="100%" /><br/>
-<sub>Lobby</sub>
+<td align="center" width="33%">
+<img src="screenshots/15-coregame.png" alt="Live Game" width="100%"><br/>
+<sub><b>Live Game</b></sub>
 </td>
-<td align="center" width="25%">
-<img src=".github/assets/search.png" alt="Player Search" width="100%" /><br/>
-<sub>Player Search</sub>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="screenshots/14-pregame-match-history.png" alt="Match History" width="100%"><br/>
+<sub><b>Match History</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="screenshots/09-lobby-search.png" alt="Player Search" width="100%"><br/>
+<sub><b>Player Search</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="screenshots/17-settings.png" alt="Settings" width="100%"><br/>
+<sub><b>Settings</b></sub>
 </td>
 </tr>
 </table>
 </div>
 
----
+<br/>
 
 ## Download
 
@@ -99,29 +117,32 @@ Select your agent once. Depth locks it the instant agent select opens, with a ra
 
 ### [↓ Download for Windows](https://github.com/psilde/depth-public/releases/latest)
 
-`Windows 10 / 11  ·  Valorant installed  ·  No account required  ·  Free forever`
+`Windows 10 / 11` · `Valorant installed` · `No account required` · `Free`
 
 </div>
 
----
+<br/>
 
 ## How It Works
 
-**1. Launch Depth** &nbsp;—&nbsp; Open before or after Valorant. Depth detects your running game client automatically. No configuration needed.
+**1. Launch Depth**
+Open before or after Valorant. Depth detects your running game client automatically. No configuration needed.
 
-**2. Queue Up** &nbsp;—&nbsp; Find a match from Depth or Valorant — doesn't matter. As players enter your lobby, Depth begins fetching their data in the background.
+**2. Queue Up**
+Find a match from Depth or Valorant, it doesn't matter. As players enter your lobby, Depth begins fetching their data in the background.
 
-**3. Know Your Lobby** &nbsp;—&nbsp; By agent select, every player's rank and profile is loaded. Click any row for the full stat breakdown. You enter every match informed.
+**3. Know Your Lobby**
+By agent select, every player's rank and profile is loaded. Click any row for the full stat breakdown. You enter every match informed.
 
----
+<br/>
 
 ## Built With
 
-- 🦀 &nbsp;[Tauri](https://tauri.app) — native desktop shell, minimal system footprint
-- ⚛️ &nbsp;[React](https://react.dev) + TypeScript — UI layer
-- 📡 &nbsp;[HenrikDev API](https://docs.henrikdev.xyz) — Valorant rank and match data
+- 🦀 [Tauri](https://tauri.app) — native desktop shell, minimal system footprint
+- ⚛️ [React](https://react.dev) + TypeScript — UI layer
+- 📡 [HenrikDev API](https://docs.henrikdev.xyz) — Valorant rank and match data
 
----
+<br/>
 
 <div align="center">
 <sub>
